@@ -27,10 +27,6 @@
 ---
 
 ## 🧠 Architecture
-<p align="center">
-  <img src="images/architecture.png" width="820" alt="Architecture Diagram" />
-</p>
-
 ```text
 [Producer]  --->  (message queue / stream)  --->  [Consumer]  --->  wordcloud.png
                                          |
@@ -43,4 +39,11 @@
 
 <p align="center">
   <img src="images/사용자페이지,관리자페이지.png" width="820" alt="Sustainable Shuttle WordCloud Hero" />
+</p>
+
+---
+
+## 🏆 Archievements
+<p align="center">
+  <img src="images/성과.png" width="820" alt="Sustainable Shuttle WordCloud Hero" />
 </p>

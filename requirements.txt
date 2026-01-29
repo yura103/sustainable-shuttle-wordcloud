@@ -1,0 +1,12 @@
+# --- 데이터 처리 및 분석 ---
+pandas
+matplotlib
+wordcloud
+
+# --- 실시간 메시징 및 저장소 ---
+kafka-python
+elasticsearch>=8.0.0,<9.0.0
+
+# --- 웹 대시보드 및 환경 설정 ---
+streamlit
+python-dotenv

@@ -1,0 +1,27 @@
+# --- 보안 및 설정 (절대 올리면 안 됨) ---
+.env
+*.log
+
+# --- 파이썬 가상환경 및 캐시 ---
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- 라이브러리 및 배포 관련 ---
+.python-version
+pip-log.txt
+pip-delete-this-directory.txt
+
+# --- 에디터 및 OS 설정 ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# --- 데이터 및 모델 관련 (용량이 크거나 로컬 전용인 경우) ---
+*.csv
+*.xlsx
+share_storage/models/

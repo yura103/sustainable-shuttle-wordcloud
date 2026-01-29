@@ -45,5 +45,5 @@
 
 ## 🏆 Archievements
 <p align="center">
-  <img src="images/성과.jpg" width="820" alt="Sustainable Shuttle WordCloud Hero" />
+  <img src="images/성과.jpg" width="620" alt="Sustainable Shuttle WordCloud Hero" />
 </p>
